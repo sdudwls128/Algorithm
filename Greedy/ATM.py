@@ -1,3 +1,4 @@
+# 백준 11399번
 n = int(input())
 arr = list(map(int, input().split()))
 time = 0

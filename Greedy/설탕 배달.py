@@ -1,3 +1,4 @@
+# 백준 2839번
 n = int(input())
 count = 0
 while n > 0:

@@ -1,3 +1,4 @@
+# 백준 11047번
 coin_type = []
 count = 0
 n, k = map(int, input().split())
